@@ -1,3 +1,5 @@
+// 교수님께 : 커밋 및 푸시 사용법을 제대로 몰라 커밋 진행이 안된 터라 과정이 없습니다 ㅠㅠ.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
